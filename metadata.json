@@ -1,0 +1,6 @@
+{
+  "name": "Crown of Valdoria — Living Kingdom 3D Simulator",
+  "description": "Rule a living 3D medieval kingdom in person as the king. Walk through your village, converse with citizens, issue direct royal orders, construct buildings physically, command armies, and shape the realm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
